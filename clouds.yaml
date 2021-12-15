@@ -1,10 +1,10 @@
 clouds:
   osp_admin:                                 # Name of this cloud
     auth:
-      auth_url: http://151.106.17.150:35357/v3 # API endpoint
+      auth_url: http://xx.xx.xx.xx:35357/v3 # API endpoint
       project_name: admin                    # OpenStack Project name
       username: admin                        # Authentication user
-      password: 'SppvDIaZNwg4Q4m0EUC1BCW7Co2miE9zPRiTrr16'             # User password
+      password: 'password found on admin-rc'             # User password
     identity_api_version: 3
     region_name: RegionOne                   # OpenStack region
     operation_log:                           # Client Logging configurations
